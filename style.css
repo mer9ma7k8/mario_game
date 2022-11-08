@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    font-size:30px;
+    font-weight:bold;
+}
+.heading h3{
+    font-size:24px;
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid grey;
+    border-radius:10px;
+}
+#mare{
+    border-radius:10px;
+    border:1px solid grey;
+    font-size:15px;
+}
+.big_image{
+    width:100%;
+}
+#status{
+    font-size:13px;
+    color:black;
+}
+h4{
+    color:black;
+    font-weight:bold;
+    line-height: 3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:0px;
+}
+.modal-dialog{
+    width:80%;
+    height:60%;
+}
+.instruction_image{
+    display:inline-block;
+    width:45%;
+}
+video{
+    background:url("game_console.png");
+    background-size:cover;
+    background-position: center;
+    padding:25px;
+}
